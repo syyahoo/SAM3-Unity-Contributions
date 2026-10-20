@@ -1,0 +1,505 @@
+{
+  "original_repository": "Voxel-Drone/StrikerPC",
+  "source_commit": "c4d13319f6a82ce0c4b92bbf1358c4e314eb592c",
+  "snapshot_kind": "Selected source files; no original Git history, binary assets, scenes, prefabs or project settings",
+  "owner": "syyahoo",
+  "selection_basis": "GitHub linked author syyahoo in all 296 default-branch commits",
+  "files": [
+    {
+      "path": "Gateway/control_protocol.py",
+      "source_blob_sha": "76fae46a56464daca91a5618e95dc5030b551eff",
+      "published_sha256": "f2013a9bf32383df39d9f9723efd8b5bb481125c2e12d1691fc6246c9a54ce4b"
+    },
+    {
+      "path": "Gateway/debug_subtitle_sender.py",
+      "source_blob_sha": "db53e0ad6c56bfb0fb8d11896a3bbaf7e2aee8be",
+      "published_sha256": "98e17c78b1530dd0b8a851c48eacffd6156bdd350bb05cfaee3fced0948227d0"
+    },
+    {
+      "path": "Gateway/depth_distance_protocol.py",
+      "source_blob_sha": "15cd4eae3f2a0f43ca56f933b505aabd2dbf7de5",
+      "published_sha256": "01653c8a19671dd6283ac1392b6af7430fd5162f8c2fa8ce43d21546be865989"
+    },
+    {
+      "path": "Gateway/depth_distance_runtime.py",
+      "source_blob_sha": "194ecbfc7363e673468c7dbeb1f9504c515aa5d1",
+      "published_sha256": "59205b811f26400f357479f0ed42affb4c868d15f793cd11c771d95df094832b"
+    },
+    {
+      "path": "Gateway/depth_distance_setup.py",
+      "source_blob_sha": "821b8e6eebc2ac2ea235d91f352ce62c3a3975a1",
+      "published_sha256": "9d692dc50db5f640677b66a9982e69d2e0788b00fb39d4a58117cee7091325bc"
+    },
+    {
+      "path": "Gateway/desktop_control_input.py",
+      "source_blob_sha": "c7e18a558b5f67fbb0f5d4f7fb9831e2cb5b1fb3",
+      "published_sha256": "2e96d1ac773ba589fca63d488c7c449d2e78770b14fef42adeab9585cb489be2"
+    },
+    {
+      "path": "Gateway/desktop_telemetry.py",
+      "source_blob_sha": "3e6ebccaa10ecfd9ebdf3f82a76007cf1bf80fb9",
+      "published_sha256": "71ef3a4c739e2d24aeced4602774e4870c00e1677242ac156fa38bfdfa2c654c"
+    },
+    {
+      "path": "Gateway/flight_safety_gateway.py",
+      "source_blob_sha": "7b2c95f89bfde021b3ca4be00e6989a4fabe8922",
+      "published_sha256": "0514b1dff470e8c663cf086cbff5114daf473b4e288887ae927fd2bdfeb0e5d0"
+    },
+    {
+      "path": "Gateway/image_hover_runtime.py",
+      "source_blob_sha": "e539678e34f50fbf68b583580a18624e234ea89b",
+      "published_sha256": "1c72b79aa064d571f6dcbedd010742af7a123f293e7eea05dfb02d329006b8ea"
+    },
+    {
+      "path": "Gateway/hover_hold.py",
+      "source_blob_sha": "fe61a47dd48af48910fe6eb0faad687de33ac49d",
+      "published_sha256": "e44abd06926158ebe24dc1285555c71ba15c467a509631680ab94a14a23bb48d"
+    },
+    {
+      "path": "Gateway/drone_position_sync.py",
+      "source_blob_sha": "276fbc87c0a060658f67d1f675082716841a54ee",
+      "published_sha256": "8b855d7b3a390efd14c3b579e8eb15adf09fd0c3033f471754446e081db9b760"
+    },
+    {
+      "path": "Gateway/livekit_video_runtime.py",
+      "source_blob_sha": "0bc037389642d03471619eb80ffde52e4fb07025",
+      "published_sha256": "bd65d64de66254f61cd815f08edb0b2c51d2b77f1d3d451d34d770c9e1db9fef"
+    },
+    {
+      "path": "Gateway/import_venue_visual_map.py",
+      "source_blob_sha": "2ea6d4d7203974d25409a30d6a8b76fc9265f50a",
+      "published_sha256": "86249afff7856a96a0cd9dbb88f1c72f73711425da8b4f620a41e47b67a01d39"
+    },
+    {
+      "path": "Gateway/mission_command_center_runtime.py",
+      "source_blob_sha": "579a80393f256d1b35df320846535c00cec23d7d",
+      "published_sha256": "5d45019afdc7d75a45463349c74b45c5186076184eb174c0bde40242e4e8951c"
+    },
+    {
+      "path": "Gateway/map_coordinates.py",
+      "source_blob_sha": "13d17793fb7b04ab96d877acb3e2ae5f743d89ec",
+      "published_sha256": "39075cee8dcac8758d510984c007514eb6bda62e0402474dce28aefd0b6973ff"
+    },
+    {
+      "path": "Gateway/mission_data_bridge.py",
+      "source_blob_sha": "bf5a240ca6b67f82b50ab190a948091009f6df85",
+      "published_sha256": "7f05ba670d4bbfc374ab6f8d266979c949dd5b7184b36a88274fb17d36bf2230"
+    },
+    {
+      "path": "Gateway/pilot_shared_control.py",
+      "source_blob_sha": "ce7f0f3d9ca43eb9dba0fca4f268ff884bac468c",
+      "published_sha256": "a5987d03c2f77573e6021d9839c682fcf0b6de64bae7328418083bf452415f45"
+    },
+    {
+      "path": "Gateway/operation_gateway.py",
+      "source_blob_sha": "2c72313855ae28a93661292c21fb02dbbadcf191",
+      "published_sha256": "3bbd507bab564e0b170425f1ba73139984325ae879e11e36159721e243a36023"
+    },
+    {
+      "path": "Gateway/pilot_shared_frame.py",
+      "source_blob_sha": "1868e61ae5d4a7afc6335d27d36f257581fc7c1a",
+      "published_sha256": "a436d80cba5ea5348c255db239b9d6a4ac12e2edf8b449754e3b4d1903de5d27"
+    },
+    {
+      "path": "Gateway/mission_platform_runtime.py",
+      "source_blob_sha": "018f549fb7507b20d5d469a972e54bc7a1fc66d0",
+      "published_sha256": "aa9ab50257492794cb077a5def3dafbd28284f9db9051dad94f2d57146c7cf2d"
+    },
+    {
+      "path": "Gateway/pose_protocol.py",
+      "source_blob_sha": "884011d12c29cdc6c0a5009a22380fc8618ca5e5",
+      "published_sha256": "b846fb5a7bbf359cebf71bbd73b1c8b855692334a8c13fc332235dd5f4fd5b47"
+    },
+    {
+      "path": "Gateway/pyinstaller_hooks/pre_find_module_path/hook-tkinter.py",
+      "source_blob_sha": "3c14be1ea215f11775f18f64c721e8b2e4c315f4",
+      "published_sha256": "898ceb4ab111f7a096880942f2371a17f6c91a5c168e3f0445d06d062fe019bf"
+    },
+    {
+      "path": "Gateway/pilot_runtime.py",
+      "source_blob_sha": "c83d3d75eeeff0896fecda50f111407880465627",
+      "published_sha256": "929700bda73eade1036db2b795b6dd47183cfc9ff99e09eb9e3f0605764bd6b2"
+    },
+    {
+      "path": "Gateway/slam_recorded_video_validation.py",
+      "source_blob_sha": "7ca386c6e7872b48fa9f9e20f3fcb3f5bf7c62a1",
+      "published_sha256": "a74e0beead92e28589c2f564c7194c2a1176d3544f8c3235c9c21aaf09fb2af4"
+    },
+    {
+      "path": "Gateway/slam_visual_replay_validation.py",
+      "source_blob_sha": "62018ec2ba02b24b608a2b0e3a2ed6e55a250615",
+      "published_sha256": "243e6b61f68e54de9e58fd1fe99514428fdca5b3fd34b040575bc7a326fc1e2f"
+    },
+    {
+      "path": "Gateway/strike_gateway_dashboard.py",
+      "source_blob_sha": "da66ba5f7147a76175dabc6eb5ca7b89c4d6b143",
+      "published_sha256": "1fe051716f9dd016a87907775bf7f570aee2271b7d3626336578b32bd6527d42"
+    },
+    {
+      "path": "Gateway/strikerpc_control_gui.py",
+      "source_blob_sha": "cb9dad614d805d422674e2468ead687f4288f344",
+      "published_sha256": "eb47073f7db90c1d9ed571184445121d044646b5c1094cfa710a4e68d0711cb0"
+    },
+    {
+      "path": "Gateway/team_source_setup.py",
+      "source_blob_sha": "13405c0fe91d3c0a36a25bb4e38fe919415891f9",
+      "published_sha256": "be010e61e4ac4f9edf4fdaf415bce38da1dae6156c9a43bc7eb916c90c63fe79"
+    },
+    {
+      "path": "Gateway/vision_adapter.py",
+      "source_blob_sha": "99f190d734e8caababec98cca2ea36de3008b9ae",
+      "published_sha256": "960031d82b98dbd330157b6ee7ebebc4de6367670ab06ae849453d8b008d6e52"
+    },
+    {
+      "path": "Gateway/virtual_drone_test_rig.py",
+      "source_blob_sha": "428061889a32be615eba76254f50b4570127616f",
+      "published_sha256": "a35ed33619d3854e3111141ba649b9e3c705ecdb923ee3905f944375320ac505"
+    },
+    {
+      "path": "Gateway/tello_camera_calibration.py",
+      "source_blob_sha": "504c4bccdcbe33bf000827b98818946b524c44b8",
+      "published_sha256": "9b5be0dee7d99c0f9af2984d4294ec98bffb02c7583e1b016e14cd59f5698d71"
+    },
+    {
+      "path": "Gateway/strikerpc_launcher.py",
+      "source_blob_sha": "f8b8e9cde68a1eb11f74df48261d8588ce92fb23",
+      "published_sha256": "6de8e1d1e91a3c7c66a00efc753fbf9a9f64b3f34ea67d359a81bdfcce82c3e7"
+    },
+    {
+      "path": "Gateway/vision_replay_benchmark.py",
+      "source_blob_sha": "770e3a79316bed41b82291293938ba3132dadcc1",
+      "published_sha256": "d97a71f12155e82e086d46cbac39e367f492bb49d90b9dd80ab19ce52d1b61f7"
+    },
+    {
+      "path": "Gateway/vision_frame_tcp.py",
+      "source_blob_sha": "3770c6c54063498a1742350e6f55d400d5c4c015",
+      "published_sha256": "a3a78fcd4d82482676e87102fc6354219e1a927e9c13fd12a5259ee9cf8b3bb0"
+    },
+    {
+      "path": "Gateway/visual_map.py",
+      "source_blob_sha": "73fe2097603436a15d494a15c6e6f3aca25fb6f3",
+      "published_sha256": "85fcb8b01c2ef48a2c3cf0e4630e27753a836f3fa577a04247f3433fc5d5da16"
+    },
+    {
+      "path": "Gateway/wifi_runtime_autostart.py",
+      "source_blob_sha": "66d000ffb5d17dabb9bf4225609d0bac9b862421",
+      "published_sha256": "dad40afc1f807e4ae698664d85e835af80c46cd677ac90b14db2b36f7d7cab09"
+    },
+    {
+      "path": "Gateway/xr_control_adapter.py",
+      "source_blob_sha": "ccb5da9ca91ae06b5e13a47241cd3d4689afee19",
+      "published_sha256": "18b761400a7b8110d7bd256b962bddd66104105f5aeecf43f2c524b957b08918"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/ControlAuthorityLease.cs",
+      "source_blob_sha": "aa7fcf702645ef5fb302e5aa73a9fcac4a9ecfce",
+      "published_sha256": "f4b53dd61e1c73c3ce71787adfa462bcbc1e123407bd3a57a0916ba55a987b60"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/ControlPacketCodec.cs",
+      "source_blob_sha": "9edd1c4a2c0af9717d1b1db4bb1f0f396d51f666",
+      "published_sha256": "be64b4f733fbf75b7708a4dacd47aba57c2fb7395fa155373702a0ccd1e1ec4e"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/ControlTimingMetrics.cs",
+      "source_blob_sha": "12341ca1e8bd0b008a64e7e0665a7ef30c337d3e",
+      "published_sha256": "2cc128b7f9d8e5b0c4976fc6281f27b10e51a3dd7dba4a369565a44464082773"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/PythonRelayControlTransport.cs",
+      "source_blob_sha": "d941faf3a2abd455f2ed96a938a5970f8482979c",
+      "published_sha256": "194df89a0c4160c423c96bd4ca58eb98efbf847cb10a478ed0f8df7f85251cd1"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/DroneControlTypes.cs",
+      "source_blob_sha": "32209df7b2df2a26293817a1e7cd313231688f84",
+      "published_sha256": "1a0a1f66edcc11d3f4ae34a30492d81a00a74615ac2ac93cf8a16214206775dd"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/SharedMemoryControlTransport.cs",
+      "source_blob_sha": "58a078caf70a589ef0e15c673805dfffd8aafff9",
+      "published_sha256": "38627bc1be0074f396ec09fd4847df02401e1c1e61652d5375f54e9a2e9d11c9"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/TelloControlSettings.cs",
+      "source_blob_sha": "5f862ad4c1b913f7cccd22dc1dbceec1d2a5bdb5",
+      "published_sha256": "4c869c81eb226e9c8962603f85b0d6332688a8f4ee5f477e2959f72a01622f08"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/TelloControlOrchestrator.cs",
+      "source_blob_sha": "4a20152ea43b1fc1fc3822ea4f783b6ea7c27603",
+      "published_sha256": "9b974a3b893d08dcfc21518db9f9df37881165450d05ec3af16a3ee0e0e51ddb"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/UnityDirectControlTransport.cs",
+      "source_blob_sha": "3c8d7649b4f73332b14021d5e286c582e2ceac4c",
+      "published_sha256": "c0e057ccf0c96fdfed178e6130e883c8aafd8046a9f382c6abf90ae89c4625a3"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/UnityHeartbeatPublisher.cs",
+      "source_blob_sha": "5af68c85db866c33757582db503e5ebe95ca2e80",
+      "published_sha256": "f84380485d7e29e1b520e3d8fece1c8bf924aba4fbfa1758d299d3122941d21b"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Control/XrMode2ControlInput.cs",
+      "source_blob_sha": "90daceadbe9b5116a418bcf50c1f50e69492602c",
+      "published_sha256": "a235585062ddd5799e269eb8e3ce0a59c538e6d545e48682e25d6f51476499ff"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/AprilTagBoardBearing.cs",
+      "source_blob_sha": "c4ec84cd0c161bb135ca8e790df97d2a71e765cb",
+      "published_sha256": "dab8627cbba4ed96ad37aacd5b53988b3b2503ec9ee6ed4cac1238ada0416dab"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/DroneMapTelemetryPublisher.cs",
+      "source_blob_sha": "7f87cdbf7e1a234e7dcefc34b59b278f35aa90a4",
+      "published_sha256": "9c726fac6203abd1f64b4eea9d7c7ff06e96359a5584c537f7d568d9522642d0"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/MapCoordinateConverter.cs",
+      "source_blob_sha": "b4423f204b2b1d5db6d97824b4bf9119e6f4ce4c",
+      "published_sha256": "70bfd5615bc29708f2187ec9e6f1b131e39d66b40d96172b341e1c2c33b04184"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/MapPingMessages.cs",
+      "source_blob_sha": "552785a37d34437605bba1952379e45ab5175c58",
+      "published_sha256": "8465747b2dd9548d35dcdd1fd432808ac85506a712405badc01d6e2a6e14d7b2"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/MapPingUdpBridge.cs",
+      "source_blob_sha": "8340e9911bc0ab851babf354330122a3b29d990f",
+      "published_sha256": "e482004003bda4f948c6382d8d9426f7de87be47f97dd206607ab52f9e4fbc70"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/VenueMapDefinition.cs",
+      "source_blob_sha": "0ad1b3acd1db40fe9e95d6ec3f1da30841194213",
+      "published_sha256": "f31b9bd488e721d2206e3b3a4d6c8ebc8e93866efa4f7cb22bc7bfbac7c90136"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/QuestMapPanel.cs",
+      "source_blob_sha": "59449cbf1b53bb89b98ba8b6b6aeec736a9b88d6",
+      "published_sha256": "beb9e20df76e8efd67bd4c574e34a5eb4382044b870cf90dc6df2cebc2390f8a"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/VenueMapLoader.cs",
+      "source_blob_sha": "22149a9a62213e7894ca0e6a4767557626c510d3",
+      "published_sha256": "bd0a830d9144fe77be2fee5269593d5a5a2edddfd34de7d1ddad5286f024e50e"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/VenueSurfaceResolver.cs",
+      "source_blob_sha": "457e3c2334ccfdfdf8fc6d2bf16f9c08c2c5143e",
+      "published_sha256": "a3be9795a64aff307afb66938d84b4d50a602589f3a252fdb4dd1cd65e65cb7e"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/VenueScanDefinition.cs",
+      "source_blob_sha": "9809a924e953c5cb797094452314356ecad97f40",
+      "published_sha256": "70aa51e98b2670d3ba2d8e7871daf3e0b87694f2f6af6c202b35386865c56d73"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/State/TelloConnectionState.cs",
+      "source_blob_sha": "d01ddeab7547856ef741ab919dd652318e91d749",
+      "published_sha256": "a0cce255d3e979a7c81496dd7a4d5190be40a97810e604c534fcd99f4955ec3a"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/State/TelloStateReceiver.cs",
+      "source_blob_sha": "220e7b7d137c23dbdddb214dcac7c365ea9d2409",
+      "published_sha256": "f16abdf53da5c6a14ade01f38b95c0ea0a9e7ef17ced2194f3b450320bce82ed"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/StrikerPCMonotonicClock.cs",
+      "source_blob_sha": "2f811ba4f4213f803aef28c589d5ba8afc0bd049",
+      "published_sha256": "9adf7226e160dcf1e51eb6bb669b214e0fffaade3d287aff673743229b643c63"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Map/WorldPingManager.cs",
+      "source_blob_sha": "d1b54fee9ca00aff3ef021ad3f58c8e374c7e82f",
+      "published_sha256": "217e548b80bdc3dfe3da43c05ca9b216488912cc956cdba504a312e722c997b9"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/StrikerPCPositionRuntimeBootstrap.cs",
+      "source_blob_sha": "06ce008060e9eac9dae0d4777c3d157f5a1e7111",
+      "published_sha256": "1bd1b2a6c9cf074a4317ddac8dcddd4eb57caf01a5cdb9f658cda342a7df0279"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/State/TelloTelemetryHud.cs",
+      "source_blob_sha": "3c3475b9340a201815339a644a656f6eff24dde2",
+      "published_sha256": "ce8eb5610f80f1d6181d2bf540adfe94796139cb32d68b5a4f70acc5c23831b0"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/DepthDistanceSample.cs",
+      "source_blob_sha": "852d202305bf5dffe225bffa43f2420592a8bb23",
+      "published_sha256": "c72ad547c5771eb4be63666c8e12689b7a61dc13e3cee46bb9ab5aebc2dd0dec"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/ContinuousDronePoseReceiver.cs",
+      "source_blob_sha": "b08dc87834d0b0f2722219fb6f971d18cc4e1085",
+      "published_sha256": "7dbec642b7c0f47cf190f982fee1f7892d25a1c95c23ff8bd12f7d2fa256d67a"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/DepthDistanceUdpReceiver.cs",
+      "source_blob_sha": "2b178d822bb4b2aae4741e6277c476262e1e18d2",
+      "published_sha256": "08545addcf50f057359c1af3b6b1d2990bfd496c08687fc86e9b3f15d51b8284"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/DroneAnchorOverlay.cs",
+      "source_blob_sha": "365ed38b9b496426f6f132d3aa407468271e9a3e",
+      "published_sha256": "28234d1711ce6247dfdfc1b05f11df3a2002f198bb0d4985d33cc37cf98a1a72"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/DroneCameraCalibration.cs",
+      "source_blob_sha": "fab1e2bcfa0295429723c73be7650b3e6f4b9b7d",
+      "published_sha256": "1b098f8134309b8096eda0d72418aad665191fa201415e695219bdffc5257c6d"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/DronePoseHistoryProvider.cs",
+      "source_blob_sha": "ebf4348ec7bc33190126a04a5cfe00bc27bde4c6",
+      "published_sha256": "b7e53699d1028619bee6117214bdde53314f8a8a51110b57644ce562e8537021"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/LiveKitVideoSurface.cs",
+      "source_blob_sha": "d2df45ccbfea0fe6887f27daa5d3d79d67ad09b4",
+      "published_sha256": "7b16ebf24bd8d44587ae88e9ca57f54c51b6e955501a29ab31de7993d91437fd"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/DronePoseSampleV2.cs",
+      "source_blob_sha": "c71644aaa9544607f885040bdd76e4079514923c",
+      "published_sha256": "2e8183bb12a7caedb5a1abe63b81ee178c7f0c055adf5f4d43f2113a8362ee67"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/DroneVisualPoseReceiver.cs",
+      "source_blob_sha": "4e54bb29605fc01c8f640673de84189a0915f17a",
+      "published_sha256": "73fd9ea1940f6c2dbbc2a0647309ec3204e40a9500941a5e16e6f6d583d1531a"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/MissionVideoMessages.cs",
+      "source_blob_sha": "896059c8f39df8250671c3750b277ea687bc4924",
+      "published_sha256": "b1e580db9702419f66658517989be231678bd0f0ff69423b9cfb362878cbcb17"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/MissionVideoOverlay.cs",
+      "source_blob_sha": "5675c9bbb9589b593e64bdfcbf7b7cbf2f31295f",
+      "published_sha256": "2abb1f74cc08a6cbb38a770b6216b8ebb194e2ed18ee77a8466e81efc8497a7e"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/PilotVideoSourceSelector.cs",
+      "source_blob_sha": "1204af7b9f2e0cf7bf756ec635ed06deeb90d31d",
+      "published_sha256": "2e247d4d95bc65a7fb29a3e2c3fea0f8cf5a66eb8ef80db16c399b185e0d1dec"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/PilotAnnotationOverlay.cs",
+      "source_blob_sha": "f19dfe222aab69101ddd25891ba9b9802172df0b",
+      "published_sha256": "22ae98a6c7c0d934bada8c31e7da9d39291bd830a70c54cee8b1849cb96c7dbe"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/PilotSharedFrameTexture.cs",
+      "source_blob_sha": "8e2a73e2109a27dfa7fa055fd320989422f11157",
+      "published_sha256": "8447c12ea45fada69e52d2e9aa4347b996218459db03be497522bd5138c4ac41"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/DebugSubtitleUdpReceiver.cs",
+      "source_blob_sha": "eb198107f7a6bab4e3663be4be2c8be47dec0da4",
+      "published_sha256": "dc1ba24b3b43803ee69d561d731cfeb75ddecd10a71b37213c0a2943659cd8c9"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/Video/DroneCameraProjector.cs",
+      "source_blob_sha": "c2886d8bfb933b7e094c5c527bbfafb6b8b3683e",
+      "published_sha256": "58fc611de877b3956b12ac67c65e9d6de42f4b409dfd39ab12daf59e136e87ae"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/DepthDistanceHud.cs",
+      "source_blob_sha": "0081ed1236e92bb9ecf80931010bb47c31431db6",
+      "published_sha256": "c2321e310fec53c2784e463ea8bfdd68c37c233eccfc29a83677feaf3bd9f0c7"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/FpvAttitudeIndicator.cs",
+      "source_blob_sha": "f280934ba883b8e2c36bdb927a1a3252776dbe2b",
+      "published_sha256": "daabc7738019a6bd907ca9c1d4b63d079a7d4dd909a640187a7b30855af9283a"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/DroneHeadingTape.cs",
+      "source_blob_sha": "7e5c13c1fa0153dd903aff5008d513169bd0e1df",
+      "published_sha256": "fb5a62ac6be6654e9b22d58a2f61b88f509c3337dbcfff70b785e11a7e355eda"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/LiveKitAudioBridge.cs",
+      "source_blob_sha": "48e0a5f7f377d3885e6b02e1d4127f1114b1c94e",
+      "published_sha256": "cc8e0d5ddb293ec6eace0a0098fbd9289f53933f76c2c909692ef961201a9c00"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/LiveKitStatusHeader.cs",
+      "source_blob_sha": "4f624822d0cde1d09c2257ac6b00e0d9205db7f6",
+      "published_sha256": "48f7ae02a88a28d5e397c9e7638cbe7c574beb4d7a58a1114bf19dc64124d171"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/ReconWindowVisibilityToggle.cs",
+      "source_blob_sha": "a476ed53560a8e5bd042951a01cc4605bc24bd6f",
+      "published_sha256": "33c2027487ed49f115d2ef38368f0a43cd9a8035c336f8e6f13b1a5e2c8c209c"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/SubtitleHistoryView.cs",
+      "source_blob_sha": "9e46c52904a01de9f8601130b88b14ca4fd75d29",
+      "published_sha256": "ec4749042e37d8a92046dfaa7a5c61dd4b1009b40444da93f65a3852b2c6bba4"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/XrDockableWindow.cs",
+      "source_blob_sha": "0c317a92e7f0f8f8fd32196675e0f61561876ad1",
+      "published_sha256": "2fa3410bdf8722c2130ae7d1bd16ced65e82baf8b059a9a44738a260383d53c8"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/FpvFlightGuideHud.cs",
+      "source_blob_sha": "7d4ab56d6f7991c583d0506f3dd6ae8da6bde43c",
+      "published_sha256": "87f27088dbcdd3c8fe091f5d1b2b68225cda4e629f581a3fdc3cbe20245c1ab3"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/XrCameraModeSwitcher.cs",
+      "source_blob_sha": "6366c26872b706afca2d23aa9670b9094b684d21",
+      "published_sha256": "52188f82641a189db035a8e9efab14de74eff81bbe6fb7a136edb192e67230b0"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/PilotFocusModeController.cs",
+      "source_blob_sha": "b9084482463a7ca7079bf757d553bf60556fe73f",
+      "published_sha256": "bf5021c414779804c15346210389be317b6282bd3ab9d59f0f54fbde79e1b727"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/XrHudLayout.cs",
+      "source_blob_sha": "e7599ade26f0e92cf2dd4ca244c2ebbfa51710d7",
+      "published_sha256": "e57c5fdb6761e9f914e2f030149647a03283b5664c1f07b9e62944d1139b54d8"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/XrHudVisibilityStatus.cs",
+      "source_blob_sha": "c5d4beef292f9fae9bff248062f7ee72125151af",
+      "published_sha256": "abe7ec509868da41a6455400303a4caebae8651476436b1cbebfa3f9bafebc99"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/XrWindowDockingController.cs",
+      "source_blob_sha": "af4811052bb353b6d5fe5ac16f583a73fd0a4e4c",
+      "published_sha256": "f5dce9ec6c4ba555e044c830ac0c2b50761cc8fec6740e10f8a76236628e7122"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/XrUiButtonPressRelay.cs",
+      "source_blob_sha": "495a5318f5834caeeb825706b08b72252eabef04",
+      "published_sha256": "dc32966f860274525c8dac899608686f83f772ea4ce0108703f3985aff503c70"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/XrVerticalHudAdjuster.cs",
+      "source_blob_sha": "f0b4f4e182c90a02209a541f8d5a03ca7deef978",
+      "published_sha256": "e366e3a63b5b65614732101013729b37ffa56a4cb73daaa916a13a372d7f4b93"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/XrMovableWindow.cs",
+      "source_blob_sha": "a97f4b5329e27c8ff5c14cffedd5fde2ab1a9bd4",
+      "published_sha256": "c124d46465c6231183bdb5e9c6ea765c47216e6072929d5028d54959e920e7f4"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/XrWindowResizeHandle.cs",
+      "source_blob_sha": "c0060873c1c39b86f8bdc6f2352c6ff6e60d23ee",
+      "published_sha256": "60ac3c587a81aa3abb199855881e20a676a1aceee14d638f8b336d4f59eb0d3f"
+    },
+    {
+      "path": "UnityClient/Assets/StrikerPC/Scripts/XR/XrHudVisibilityToggle.cs",
+      "source_blob_sha": "93c8280e469b0e3a5f3d896d95188803ea9e8232",
+      "published_sha256": "e3e82abfe6da92d3ee0439cdd8706b6910cb6ec861866d95ae8f56dd45c92d08"
+    }
+  ],
+  "public_copy_modifications": []
+}
